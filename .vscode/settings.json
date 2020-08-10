@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 22,
+    "python.pythonPath": "C:\\Python38\\python.exe",
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "iostream": "cpp",
+        "list": "cpp"
+    }
+}
